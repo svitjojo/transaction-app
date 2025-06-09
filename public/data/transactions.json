@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2023-09-10T12:00:00Z",
+    "pending": true,
+    "authorizedUser": "Diana",
+    "icon": "apple"
+  },
+  {
+    "id": "2",
+    "type": "Payment",
+    "amount": 174.00,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2023-09-09T12:00:00Z",
+    "authorizedUser": "Diana",
+    "icon": "cc-visa"
+  },
+  {
+    "id": "3",
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2023-09-08T12:00:00Z",
+    "icon": "apple"
+  },
+  {
+    "id": "4",
+    "type": "Payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2023-09-07T12:00:00Z",
+    "icon": "cc-visa"
+  },
+  {
+    "id": "5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "date": "2023-09-06T12:00:00Z",
+    "icon": "cc-visa"
+  },
+  {
+    "id": "6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2022-10-11T12:00:00Z",
+    "icon": "store"
+  },
+  {
+    "id": "7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2022-10-10T12:00:00Z",
+    "icon": "bullseye"
+  }
+] 
